@@ -35,7 +35,7 @@ public class ATIVIDADE_3_VALENTIN {
             System.out.println("A soma de " + numUm + " com " + numDois + " = " + soma);
         }
         else{
-            JOptionPane.showMessageDialog(null,"Dados de entrada sao invalidos!" );
+            System.out.println("Dados de entrada sao invalidos!" );
            // System.out.println("Dados de entrada sao invalidos!");
         }
     }
